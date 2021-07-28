@@ -1,6 +1,6 @@
 name: micro_app_home
 description: A new Flutter package project.
-version: 0.0.1
+version: 1.0.0
 homepage:
 
 environment:
@@ -14,7 +14,9 @@ dependencies:
       ref: v1.0.0
   
   micro_commons_design_system:
-    path: ../micro_commons_design_system
+    git:
+      url: https://github.com/DeividWillyan/-Curso-Micro-Commons-Design-System.git
+      ref: v1.0.0
       
   flutter:
     sdk: flutter
