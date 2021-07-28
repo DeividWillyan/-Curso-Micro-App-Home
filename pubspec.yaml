@@ -1,0 +1,28 @@
+name: micro_app_home
+description: A new Flutter package project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  micro_core:
+    git:
+      url: https://github.com/DeividWillyan/-Curso-Micro-Core.git
+      ref: v1.0.0
+  
+  micro_commons_design_system:
+    path: ../micro_commons_design_system
+      
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
