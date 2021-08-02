@@ -73,7 +73,7 @@ packages:
       name: golden_toolkit
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.8.0"
+    version: "0.9.0"
   lints:
     dependency: transitive
     description:
@@ -99,20 +99,20 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.0"
-      resolved-ref: "663ed8c1102d9187d792c99777e94c5d7bfe9255"
+      ref: "v1.0.1"
+      resolved-ref: c03a330e5b7ef0aee1759c19e3d759a1354a5946
       url: "https://github.com/DeividWillyan/-Curso-Micro-Commons-Design-System.git"
     source: git
-    version: "0.0.1"
+    version: "1.0.1"
   micro_core:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.0"
-      resolved-ref: de7b5cb92e4d525e8ae0b12bb3910d75d4552767
+      ref: "v1.0.1"
+      resolved-ref: "72827d20289a829009bb5bbb52a40ebdc23265fb"
       url: "https://github.com/DeividWillyan/-Curso-Micro-Core.git"
     source: git
-    version: "0.0.1"
+    version: "1.0.1"
   path:
     dependency: transitive
     description:

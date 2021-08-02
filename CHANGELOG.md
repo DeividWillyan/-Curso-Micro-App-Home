@@ -1,3 +1,3 @@
-## 0.0.1
+## [1.0.1] - Update no Null Safety
 
-* TODO: Describe initial release.
+* Updating to null safety.
